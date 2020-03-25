@@ -1,9 +1,9 @@
 # Uvento UI
 
-Uvento UI based on dribble design
+Uvento UI based on dribbble design
 
 # Dribbble design:
-[Dibbble uvento designe page](https://dribbble.com/shots/9519342-UVENTO-App-Event-app-Exploration)
+[Dibbble uvento design page](https://dribbble.com/shots/9519342-UVENTO-App-Event-app-Exploration)
 
 ![Dribbble design](readme_assets/dribbble-uvento.png)
 
